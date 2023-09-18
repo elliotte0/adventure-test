@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Super Awesome"
+  favicon: arrow-down-up
+  navbar:
+    
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house-door
+      - href: about.qmd
+        icon: person
+      - href: adventures.qmd
+        icon: binoculars
+      - href: https://google.com
+        text: Go Away
+        icon: arrow-down-up
+        
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true

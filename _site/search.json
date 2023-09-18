@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this my site!\n\n\n\n\n\n\nThis is a callout! Woah!\n\n\n\n\n\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "adventures.html",
+    "href": "adventures.html",
+    "title": "Adventures",
+    "section": "",
+    "text": "1 North America\n\nU.S.A.\nCananda\nMexico\n\n\n\n2 Central + South America\n\nCosta Rica\nHonduras\nBelize\nCayman Islands\nPeru\nEcuador\nArgentina\n\n\n\n3 Europe\n\nU.K. (Wales, Scotland, England)\nIreland\nNetherlands\nBelgium\nLuxembourg\nFrance\nSpain\nPortugal\nItaly\nSwitzerland\nAustria\nGermany\nPoland\nDenmark\nEstonia\nFinland\nSweden\nNorway\n\n\n\n4 Africa\nNo where yet :(\n\n\n5 Asia\n\nIndia\nChina\nJapan\nSouth Korea\n\n\n\n6 Australia and Oceania\nNo where yet :("
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Super Great Stuff",
+    "section": "",
+    "text": "Could I maybe use this for documentation?\n\n1 + 2 + 3 + 4\n\n[1] 10"
+  }
+]

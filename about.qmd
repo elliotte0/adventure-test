@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+About this my site!
+
+::: callout-note
+## This is a callout! Woah!
+:::
+
+```{r}
+1 + 1
+```

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Super Awesome"
+  title: "Awesome"
   favicon: arrow-down-up
   navbar:
     
